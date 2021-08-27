@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Lab: ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoncheam/expressjs.git"
+  },
+  "author": "https://github.com/simoncheam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoncheam/expressjs/issues"
+  },
+  "homepage": "https://github.com/simoncheam/expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
